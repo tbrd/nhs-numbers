@@ -1,5 +1,5 @@
-title: JavaScript NHS Number Validator
-description: A simple JS NHS number validator for Node and browsers
+title: NHS Numbers
+description: An NHS number generator & validator
 google_analytics: UA-43110335-1
 show_downloads: true
 theme: jekyll-theme-slate
