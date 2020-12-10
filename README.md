@@ -1,4 +1,4 @@
-# NHS number validator (JS)
+# NHS number validator
 
 
 A simple NHS number generator & validator, following the process described in the [NHS Data Dictionary](http://www.datadictionary.nhs.uk/data_dictionary/attributes/n/nhs/nhs_number_de.asp?shownav=0?query=%22nhs+number%22&rank=100&shownav=1).
