@@ -2,12 +2,10 @@
   "name": "nhs-number-validator",
   "version": "1.0.0",
   "description": "Validate NHS numbers in various guises",
-  "main": "index.js",
+  "main": "build/index.js",
   "scripts": {
+    "build": "tsc",
     "test": "jest --watchAll"
-  },
-  "bin": {
-    "nhs-number-validator": "./cli.js"
   },
   "repository": {
     "type": "git",

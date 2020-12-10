@@ -31,3 +31,16 @@ const invalidNhsNumbers = generateInvalidNhsNumbers(10)
 const result = validateNhsNumber("1234567880")
 ```
 
+## Contributing
+
+### Setup
+
+```sh
+yarn
+```
+
+### Test
+
+```sh
+yarn test
+```
