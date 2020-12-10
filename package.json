@@ -1,5 +1,5 @@
 {
-  "name": "nhs-number-validator",
+  "name": "nhs-numbers",
   "version": "1.0.0",
   "description": "Validate NHS numbers in various guises",
   "main": "build/index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tbrd/nhs-number-validator.git"
+    "url": "git+https://github.com/tbrd/nhs-numbers.git"
   },
   "keywords": [
     "nhs",
@@ -19,9 +19,9 @@
   "author": "Tom Hamshere <tom.hamshere@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tbrd/nhs-number-validator/issues"
+    "url": "https://github.com/tbrd/nhs-numbers/issues"
   },
-  "homepage": "https://github.com/tbrd/nhs-number-validator#readme",
+  "homepage": "https://github.com/tbrd/nhs-numbers#readme",
   "devDependencies": {
     "@babel/core": "^7.12.10",
     "@babel/preset-env": "^7.12.10",
