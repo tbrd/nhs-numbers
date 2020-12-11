@@ -1,18 +1,18 @@
 {
     "compilerOptions": {
-        "module": "esnext",
+        "module": "commonjs",
         "target": "esnext",
         "esModuleInterop": true,
         "noImplicitAny": true,
-        "removeComments": true,
-        "preserveConstEnums": true,
-        "sourceMap": true,
         "declaration": true,
-        "skipLibCheck": true,
-        "outDir": "build"
+        "outDir": "./lib"
     },
     "include": [
         "src",
-    ],   
+    ],
+    "exclude": [
+        "node_modules",
+        "**/*.test.*"
+    ]
 }
   
